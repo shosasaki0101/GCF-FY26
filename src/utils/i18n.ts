@@ -147,7 +147,7 @@ export const jaTranslations: TranslationData = {
   hero: {
     title: 'Global Commons Forum',
     subtitle: 'Safeguarding Global Commons through Transition to Nature Positive Economy',
-    date: '2027年2月18日(木)',
+    date: '2027年2月19日(木)',
     venue: '場所：東京大学 一条ホール',
     register: '参加登録',
   },
