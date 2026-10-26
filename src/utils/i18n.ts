@@ -163,7 +163,7 @@ export const jaTranslations: TranslationData = {
     title: '日時・場所',
     dateTime: {
       title: '開催日時',
-      value: '2027年2月18日(木)',
+      value: '2027年2月19日(木)',
     },
     venue: {
       title: '会場',
